@@ -3,4 +3,9 @@ numpy
 pandas
 matplotlib
 scikit-learn
+ipykerneltensorflow
+numpy
+pandas
+matplotlib
+scikit-learn
 ipykernel
