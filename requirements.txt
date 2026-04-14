@@ -2,10 +2,12 @@ tensorflow
 numpy
 pandas
 matplotlib
+seaborn
+scikit-learn
+ipykernel
+pillow
 scikit-learn
 ipykerneltensorflow
 numpy
 pandas
 matplotlib
-scikit-learn
-ipykernel
