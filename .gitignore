@@ -2,3 +2,6 @@ venv/
 *.keras
 *.h5
 data/
+*.tsv
+*.txt
+*.zip
